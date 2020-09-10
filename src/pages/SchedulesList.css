@@ -1,0 +1,35 @@
+.schedule-list {
+  font-size: 28px;
+}
+.title {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 30px;
+}
+.name {
+  position: fixed;
+  align-items: flex-start;
+  padding-left: 18%;
+  font-size: 25px;
+}
+.date {
+
+    align-items: flex-start;
+    margin-bottom: 10%;
+  padding-left: 36%;
+  padding-right: 2%;
+  font-size: 25px;
+}
+.hour {
+    padding-left:2%;
+  font-size: 25px;
+  padding-right: 3%;
+  
+}
+.phone {
+    
+  font-size: 25px;
+}
+

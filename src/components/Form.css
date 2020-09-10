@@ -1,0 +1,35 @@
+.contact-form{
+    
+    background-image: url("../background.jpg");
+    width: 100%; 
+    margin:auto;
+    text-align: center;   
+}
+.form-title{
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.form-data{
+    color: white;
+    
+
+}
+.form-box{
+    text-align: center;
+    
+}
+.form-btn{
+    margin-top: 25px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.form-btn:hover{
+    background-color: rgb(99, 98, 98);
+}
+.form-inputs{
+    width: 300px;
+    text-align: center;
+}
