@@ -3,15 +3,19 @@
     background-image: url("../background.jpg");
     width: 100%; 
     margin:auto;
-    text-align: center;   
+    text-align: center; 
+ 
+    padding-bottom: 350px;  
 }
 .form-title{
     text-align: center;
     color: white;
     padding: 50px;
+    font-size:20px ;
 }
 .form-data{
     color: white;
+    font-size: 20px;
     
 
 }
@@ -31,5 +35,20 @@
 }
 .form-inputs{
     width: 300px;
-    text-align: center;
+    text-align:center
+}
+.form-error {
+  color: #ffdddd;
+  background: #8b000033;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin-top: 10px;
+}
+
+.form-success {
+  color: #ddffdd;
+  background: #00640033;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin-top: 10px;
 }
