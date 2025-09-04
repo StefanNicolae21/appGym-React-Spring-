@@ -6,9 +6,9 @@ function Footer() {
     <div className="footer">
       
       &copy; FIT STUDIO {new Date().getFullYear()}
-      <nav className="footer-search">More Info</nav>
-      <nav className="footer-search">Contact us</nav>
-      <nav className="footer-search">About us</nav>
+      <a href = "/moreInfo" class="footer-search">More Info</a>
+      <a href = "/contact" class="footer-search">Contact us</a>
+      <a href = "/about" class="footer-search">About us</a>
     </div>
   );
 }

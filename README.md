@@ -5,10 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-
+## Front-End
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Back-End
+The Spring boot server is started and you can save your scheduals.
+Make sure you can see the pom.xml in the console by executing bash cmd `ls`
+### `mvn clean spring-boot:run`
+
+
+
+
+## THESE ARE OPTIONAL
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
@@ -66,3 +75,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![alt text](image.png)

@@ -18,6 +18,7 @@ function Homepage() {
             imgSrc="../images/content1.jpg"
             className="size-33"
             title="Body Shape"
+          
           />
 
           <ImageBlock
