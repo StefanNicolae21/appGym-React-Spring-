@@ -21,7 +21,6 @@
   </properties>
 
   <dependencies>
-    <!-- ✅ ADĂUGAT: necesar pentru @RestController, @GetMapping/@PostMapping etc. -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
